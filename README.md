@@ -1,6 +1,8 @@
 # pg-pmp
 
-PostgreSQL poorman profile tool just like mysql poorman profile tool
+PostgreSQL poorman profile tool just like mysql poorman profile tool and Percona pt-pmp
+
+https://docs.percona.com/percona-toolkit/pt-pmp.html
 
 ### Usage
 
